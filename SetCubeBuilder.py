@@ -58,7 +58,7 @@ getNames(fetch, number, f)
 f.write('\n')
 print()
 
-response = requests.get("https://api.scryfall.com/cards/search?order=set&q=set%3A{}+rarity%3Au+not%3Apwdeck".format(setCube())
+response = requests.get("https://api.scryfall.com/cards/search?order=set&q=set%3A{}+rarity%3Au+not%3Apwdeck".format(setCode))
 fetch = response.json()
 
 number = int(input("How many copies do you want of each Uncommon? "))
@@ -67,7 +67,7 @@ getNames(fetch, number, f)
 f.write('\n')
 print()
 
-response = requests.get("https://api.scryfall.com/cards/search?order=set&q=set%3A{}+rarity%3Ac+not%3Apwdeck+-t%3Abasic".format(setCube())
+response = requests.get("https://api.scryfall.com/cards/search?order=set&q=set%3A{}+rarity%3Ac+not%3Apwdeck+-t%3Abasic".format(setCode))
 fetch = response.json()
 
 number = int(input("How many copies do you want of each Common? "))
