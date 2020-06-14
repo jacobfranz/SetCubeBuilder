@@ -1,0 +1,257 @@
+Mythics 
+1 Karn, Scion of Urza
+1 History of Benalia
+1 Lyra Dawnbringer
+1 Naru Meha, Master Wizard
+1 Demonlord Belzenlok
+1 Phyrexian Scriptures
+1 Jaya Ballard
+1 Verix Bladewing
+1 Multani, Yavimaya's Avatar
+1 Darigaaz Reincarnated
+1 Jhoira, Weatherlight Captain
+1 Muldrotha, the Gravetide
+1 Teferi, Hero of Dominaria
+1 Mox Amber
+1 Weatherlight
+
+Rares 
+1 Benalish Marshal
+1 Daring Archaeologist
+1 Evra, Halcyon Witness
+1 Fall of the Thran
+1 Shalai, Voice of Plenty
+1 Teshar, Ancestor's Apostle
+1 Urza's Ruinous Blast
+1 The Antiquities War
+1 Karn's Temporal Sundering
+1 The Mirari Conjecture
+1 Naban, Dean of Iteration
+1 Precognition Field
+1 Tempest Djinn
+1 Zahid, Djinn of the Lamp
+1 Dread Shade
+1 Josu Vess, Lich Knight
+1 Kazarov, Sengir Pureblood
+1 Lich's Mastery
+1 Rite of Belzenlok
+1 Torgaar, Famine Incarnate
+1 Yawgmoth's Vile Offering
+1 The First Eruption
+1 Goblin Chainwhirler
+1 Haphazard Bombardment
+1 Jaya's Immolating Inferno
+1 Siege-Gang Commander
+1 Squee, the Immortal
+1 Two-Headed Giant
+1 Kamahl's Druidic Vow
+1 Marwyn, the Nurturer
+1 The Mending of Dominaria
+1 Steel Leaf Champion
+1 Sylvan Awakening
+1 Territorial Allosaurus
+1 Verdant Force
+1 Aryel, Knight of Windgrace
+1 Grand Warlord Radha
+1 Jodah, Archmage Eternal
+1 Oath of Teferi
+1 Primevals' Glorious Rebirth
+1 Blackblade Reforged
+1 Forebear's Blade
+1 Gilded Lotus
+1 Helm of the Host
+1 Mishra's Self-Replicator
+1 Thran Temporal Gateway
+1 Traxos, Scourge of Kroog
+1 Cabal Stronghold
+1 Clifftop Retreat
+1 Hinterland Harbor
+1 Isolated Chapel
+1 Sulfur Falls
+1 Woodland Cemetery
+
+Uncommons 
+2 Baird, Steward of Argive
+2 Board the Weatherlight
+2 Danitha Capashen, Paragon
+2 Dauntless Bodyguard
+2 Knight of Grace
+2 Kwende, Pride of Femeref
+2 On Serra's Wings
+2 Sanctum Spirit
+2 Seal Away
+2 Serra Angel
+2 Triumph of Gerrard
+2 Curator's Ward
+2 Diligent Excavator
+2 In Bolas's Clutches
+2 Merfolk Trickster
+2 Sage of Lat-Nam
+2 Sentinel of the Pearl Trident
+2 Slinn Voda, the Rising Deep
+2 Tetsuko Umezawa, Fugitive
+2 Time of Ice
+2 Weight of Memory
+2 Wizard's Retort
+2 Cast Down
+2 Chainer's Torment
+2 The Eldest Reborn
+2 Final Parting
+2 Knight of Malice
+2 Lingering Phantom
+2 Settle the Score
+2 Thallid Soothsayer
+2 Urgoros, the Empty One
+2 Whisper, Blood Liturgist
+2 Yargle, Glutton of Urborg
+2 Champion of the Flame
+2 Fight with Fire
+2 Firefist Adept
+2 The Flame of Keld
+2 Goblin Barrage
+2 Goblin Warchief
+2 Orcish Vandal
+2 Skizzik
+2 Valduk, Keeper of the Flame
+2 Warcry Phoenix
+2 Wizard's Lightning
+2 Elfhame Druid
+2 Fungal Plots
+2 Gaea's Blessing
+2 Grunn, the Lonely King
+2 Nature's Spiral
+2 Song of Freyalise
+2 Spore Swarm
+2 Sporecrown Thallid
+2 Thorn Elemental
+2 Untamed Kavu
+2 Wild Onslaught
+2 Adeliz, the Cinder Wind
+2 Arvad the Cursed
+2 Garna, the Bloodflame
+2 Hallar, the Firefletcher
+2 Raff Capashen, Ship's Mage
+2 Rona, Disciple of Gix
+2 Shanna, Sisay's Legacy
+2 Slimefoot, the Stowaway
+2 Tatyova, Benthic Druid
+2 Tiana, Ship's Caretaker
+2 Amaranthine Wall
+2 Damping Sphere
+2 Howling Golem
+2 Icy Manipulator
+2 Jhoira's Familiar
+2 Juggernaut
+2 Shield of the Realm
+2 Sorcerer's Wand
+2 Urza's Tome
+2 Memorial to Folly
+2 Memorial to Genius
+2 Memorial to Glory
+2 Memorial to Unity
+2 Memorial to War
+2 Zhalfirin Void
+
+Commons 
+4 Adamant Will
+4 Aven Sentry
+4 Benalish Honor Guard
+4 Blessed Light
+4 Call the Cavalry
+4 Charge
+4 D'Avenant Trapper
+4 Dub
+4 Excavation Elephant
+4 Gideon's Reproach
+4 Healing Grace
+4 Invoke the Divine
+4 Knight of New Benalia
+4 Mesa Unicorn
+4 Pegasus Courser
+4 Sergeant-at-Arms
+4 Serra Disciple
+4 Tragic Poet
+4 Academy Drake
+4 Academy Journeymage
+4 Arcane Flight
+4 Artificer's Assistant
+4 Befuddle
+4 Blink of an Eye
+4 Cloudreader Sphinx
+4 Cold-Water Snapper
+4 Deep Freeze
+4 Divination
+4 Homarid Explorer
+4 Opt
+4 Relic Runner
+4 Rescue
+4 Syncopate
+4 Tolarian Scholar
+4 Unwind
+4 Vodalian Arcanist
+4 Blessing of Belzenlok
+4 Cabal Evangel
+4 Cabal Paladin
+4 Caligo Skin-Witch
+4 Dark Bargain
+4 Deathbloom Thallid
+4 Demonic Vigor
+4 Divest
+4 Drudge Sentinel
+4 Eviscerate
+4 Feral Abomination
+4 Fungal Infection
+4 Rat Colony
+4 Soul Salvage
+4 Stronghold Confessor
+4 Thallid Omnivore
+4 Vicious Offering
+4 Windgrace Acolyte
+4 Bloodstone Goblin
+4 Fervent Strike
+4 Fiery Intervention
+4 Fire Elemental
+4 Frenzied Rage
+4 Ghitu Chronicler
+4 Ghitu Journeymage
+4 Ghitu Lavarunner
+4 Keldon Overseer
+4 Keldon Raider
+4 Keldon Warcaller
+4 Radiating Lightning
+4 Rampaging Cyclops
+4 Run Amok
+4 Seismic Shift
+4 Shivan Fire
+4 Skirk Prospector
+4 Warlord's Fury
+4 Adventurous Impulse
+4 Ancient Animus
+4 Arbor Armament
+4 Baloth Gorger
+4 Broken Bond
+4 Corrosive Ooze
+4 Gaea's Protector
+4 Gift of Growth
+4 Grow from the Ashes
+4 Krosan Druid
+4 Llanowar Elves
+4 Llanowar Envoy
+4 Llanowar Scout
+4 Mammoth Spider
+4 Pierce the Sky
+4 Primordial Wurm
+4 Saproling Migration
+4 Yavimaya Sapherd
+4 Aesthir Glider
+4 Bloodtallow Candle
+4 Guardians of Koilos
+4 Jousting Lance
+4 Navigator's Compass
+4 Pardic Wanderer
+4 Powerstone Shard
+4 Short Sword
+4 Skittering Surveyor
+4 Sparring Construct
+4 Voltaic Servant
+
