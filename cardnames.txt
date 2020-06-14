@@ -254,4 +254,9 @@ Commons
 4 Skittering Surveyor
 4 Sparring Construct
 4 Voltaic Servant
+4 Plains
+4 Island
+4 Swamp
+4 Mountain
+4 Forest
 

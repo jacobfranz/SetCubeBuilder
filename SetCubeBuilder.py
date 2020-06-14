@@ -38,55 +38,42 @@ def getNames(fetch, number, f):
             f.write(card['name'])
             f.write('\n')
 
+#function to reduce code reuse for the queries to scryfall
+def queries(setCode, full_rarity, f):
+
+    #peel the first letter off of the full rarity so that the query works
+    rarity = full_rarity[0]
+
+    #get the json blob from scryfall and store it in fetch which will be passed to getNames
+    response = requests.get('https://api.scryfall.com/cards/search?order=set&q=set%3A{}+rarity%3A{}+not%3Apwdeck'.format(setCode, rarity))
+    fetch = response.json()
+
+    #find the number of cards that they want from each rarity
+    number = int(input('How many copies do you want of each {}? '.format(full_rarity)))
+
+    #write the rarity to the text document add an s to the end of the string for formatting
+    f.write(('{}s \n'.format(full_rarity)))
+
+    #call get names
+    getNames(fetch, number, f)
+
+    #go to the next line on the console and on the text document
+    f.write('\n')
+    print()
+
+
 #get the set code for the scryfall query
 setCode = input('What set code corresponds to the set you are using for your cube? Ex: DOM ')
 print()
 
 #open the file that the card names and numbers will be written to
-f = open("cardnames.txt", "w+")
+f = open('cardnames.txt', 'w+')
 
-#get the json blob from scryfall and store it in fetch which will be passed to getNames
-response = requests.get('https://api.scryfall.com/cards/search?order=set&q=set%3A{}+rarity%3Am+not%3Apwdeck'.format(setCode))
-fetch = response.json()
-
-#find the number of cards that they want from each rarity
-number = int(input("How many copies do you want of each Mythic? "))
-
-#write the rarity to the text document
-f.write('Mythics \n')
-
-#call get names
-getNames(fetch, number, f)
-
-#go to the next line on the console and on the text document
-f.write('\n')
-print()
-
-response = requests.get("https://api.scryfall.com/cards/search?order=set&q=set%3A{}+rarity%3Ar+not%3Apwdeck".format(setCode))
-fetch = response.json()
-
-number = int(input("How many copies do you want of each Rare? "))
-f.write('Rares \n')
-getNames(fetch, number, f)
-f.write('\n')
-print()
-
-response = requests.get("https://api.scryfall.com/cards/search?order=set&q=set%3A{}+rarity%3Au+not%3Apwdeck".format(setCode))
-fetch = response.json()
-
-number = int(input("How many copies do you want of each Uncommon? "))
-f.write('Uncommons \n')
-getNames(fetch, number, f)
-f.write('\n')
-print()
-
-response = requests.get("https://api.scryfall.com/cards/search?order=set&q=set%3A{}+rarity%3Ac+not%3Apwdeck+-t%3Abasic".format(setCode))
-fetch = response.json()
-
-number = int(input("How many copies do you want of each Common? "))
-f.write('Commons \n')
-getNames(fetch, number, f)
-f.write('\n')
+#call queries for each rarity
+queries(setCode, 'Mythic', f)
+queries(setCode, 'Rare', f)
+queries(setCode, 'Uncommon', f)
+queries(setCode, 'Common', f)
 
 #print the total cards needed for the cube
 print('You need ' + str(totalCards) + ' cards.')
